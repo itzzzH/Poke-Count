@@ -8,7 +8,9 @@ A lightweight and customisable standalone overlay built with Python and Tkinter.
     Place it anywhere on your computer (it will create its own config file locally)
 
     Double-click to launch!
-
+ 
+    Alternatively, you can run the source code yourself by zipping the repository and running python pokecount.py (requires pynput installed).
+    
 ## Features
 
     Transparent & Always-on-Top: Built as a sleek borderless overlay that stays pinned over your game window (90% opacity).
