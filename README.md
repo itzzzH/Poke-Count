@@ -1,5 +1,5 @@
 # 🎮 Poke-Count
-A standalone script built with Python and Tkinter, compiled into a exe to make manually tracking easier in pokeMMO ( perfect for box farming & breeders! )
+A standalone script built with Python and Tkinter, compiled into a exe to make manually tracking easier in pokeMMO (perfect for box farming & breeders!)
 
 ## 🚀 Getting Started
 [Click here](https://github.com/itzzzH/Poke-Count/releases/tag/1.0) to download the latest release ( .exe )
