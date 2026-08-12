@@ -11,15 +11,15 @@ Built with Python and Tkinter, it sits cleanly on top of your game without getti
 
     Global Hotkeys: Control your counts seamlessly without tabbing out of the game:
 
-        F1: Increment active counter
+        F1: Increase active counter
 
-        F2: Decrement active counter
+        F2: Decrease active counter
 
         F3: Pause / Unpause tracking
 
         F4: Switch between active counter rows
 
-    Custom Themes: Includes several built-in color schemes, featuring classic Pokémon-inspired aesthetics (Midnight Blue, Kanto Pokéball, Johto Gold/Silver, Team Rocket, and more).
+    Custom Themes: Includes several built-in color schemes.
 
     Auto-Saving: Automatically remembers your counts, custom names, hotkeys, and theme preferences via a local JSON file (counter_config.json) when closed.
 
@@ -29,19 +29,11 @@ Built with Python and Tkinter, it sits cleanly on top of your game without getti
 
 ## 🚀 Getting Started (For Users)
 
-If you just downloaded the compiled version from the releases page:
-
     Download the latest counter.exe.
 
     Place it anywhere on your computer (it will create its own config file locally).
 
-    Double-click to launch!
-
-Controls & Right-Click Menu
-
-    Drag Window: Click and drag anywhere on the overlay to move it around your screen.
-
-    Right-Click: Open the context menu to access Settings & Rows, Reset Active, Reset All, or Close the app.
+    Double-click to launch! 
 
 ⚙️ Settings & Customization
 
@@ -54,12 +46,3 @@ Right-click the overlay and select Settings & Rows to:
     Customise global hotkey bindings.
 
     Change UI themes and scaling size.
-
-🛠️ Running from Source & Building (For Developers)
-
-If you want to run the raw Python script or build your own .exe file using PyInstaller:
-Prerequisites
-
-    Python 3.x installed on your system.
-
-    Install the required global hotkey library (pynput):
