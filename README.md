@@ -19,13 +19,13 @@ A standalone script built with Python and Tkinter, compiled into a exe to make m
 
     Global Hotkeys: Control your counts seamlessly without tabbing out of the game:
 
-    F1: Increase active counter
+    F1: Increase amount
 
-    F2: Decrease active counter
+    F2: Decrease amount
 
     F3: Pause / Unpause tracking
 
-    F4: Switch between active counter rows
+    F4: Switch between active rows
 
     Custom Themes: Includes several built-in colour schemes.
 
