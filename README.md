@@ -36,7 +36,8 @@ A standalone script built with Python and Tkinter, compiled into a exe to make m
 
 <img width="225" height="113" alt="image" src="https://github.com/user-attachments/assets/d448fa3e-cb80-4863-8f46-f6a7fb3717a6" />
 
-<img width="296" height="497" alt="image" src="https://github.com/user-attachments/assets/34ddd6af-a9d3-402a-b8f7-06c928f6fa1a" />
+<img width="221" height="500" alt="image" src="https://github.com/user-attachments/assets/ba8965b1-878e-49f9-bd28-eeab87b05294" />
+
 
 
 ## ⚙️ Settings & Customisation
