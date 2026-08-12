@@ -5,7 +5,7 @@ A lightweight and customisable standalone overlay built with Python and Tkinter.
 
 Transparent & Always-on-Top: Built as a sleek borderless overlay that stays pinned over your game window (90% opacity).
 
-Multiple Counter Rows: Keep track of up to 5 different encounters/Pokémon simultaneously with custom names (e.g., Ditto, Pikachu).
+Multiple Counter Rows: Keep track of up to 5 different counters simultaneously with custom names (e.g., Ditto, Pikachu).
 
 Global Hotkeys: Control your counts seamlessly without tabbing out of the game:
 
@@ -29,19 +29,19 @@ Zero Bloat: Consumes minimal RAM (~15-25MB) and sits at 0% CPU usage when idle.
 
 Right-click the overlay and select Settings & Rows to:
 
-    Add or delete tracking rows (up to 5).
+Add or delete tracking rows (up to 5).
 
-    Rename your encounter targets.
+Rename your encounter targets.
 
-    Customise global hotkey bindings.
+Customise global hotkey bindings.
 
-    Change UI themes and scaling size.
+Change UI themes and scaling size.
 
 
 ## 🚀 Getting Started (For Users)
 
-    Download the latest counter.exe.
+Download the latest counter.exe
 
-    Place it anywhere on your computer (it will create its own config file locally).
+Place it anywhere on your computer (it will create its own config file locally)
 
-    Double-click to launch! 
+Double-click to launch! 
