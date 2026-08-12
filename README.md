@@ -34,8 +34,7 @@ A lightweight and customisable standalone overlay built with Python and Tkinter.
     Zero Bloat: Consumes minimal RAM (~15-25MB) and sits at 0% CPU usage when idle.
 
 ## ⚙️ Settings & Customisation
-
-    Right-click the overlay and select Settings to:
+Right-click the overlay and select Settings to:
 
     Add or delete tracking rows (up to 5).
 
