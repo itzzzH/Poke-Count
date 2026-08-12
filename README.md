@@ -1,6 +1,14 @@
 # 🎮 Poke-Count
 A lightweight and customisable standalone overlay built with Python and Tkinter. designed for manually tracking with ease in PokeMMO...
 
+## 🚀 Getting Started (For Users)
+
+Download the latest counter.exe
+
+Place it anywhere on your computer (it will create its own config file locally)
+
+Double-click to launch! 
+
 ## Features
 
 Transparent & Always-on-Top: Built as a sleek borderless overlay that stays pinned over your game window (90% opacity).
@@ -36,12 +44,3 @@ Rename your encounter targets.
 Customise global hotkey bindings.
 
 Change UI themes and scaling size.
-
-
-## 🚀 Getting Started (For Users)
-
-Download the latest counter.exe
-
-Place it anywhere on your computer (it will create its own config file locally)
-
-Double-click to launch! 
