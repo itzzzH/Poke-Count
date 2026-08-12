@@ -52,3 +52,15 @@ Right-click the overlay and select Settings to:
 
 ## Please note!
 Because this is written in Python and compiled with PyInstaller and uses pynput to listen for global hotkeys while you're in-game some antivirus programs or VirusTotal scanners may show false positives. The full source code is completely open in this repo "pokecount.py" 
+
+📦 What's inside the .exe?
+
+Since this is packaged with PyInstaller so you don't have to mess around installing Python yourself, the .exe basically bundles a few things together:
+
+    The actual PokeCount source code
+
+    A lightweight, built-in Python runtime so it can execute
+
+    The required packages—mainly pynput (for global hotkeys so you can count while tabbed into your game) and Tkinter (for the UI)
+
+    A small bootloader that handles launching the app smoothly
