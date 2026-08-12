@@ -25,15 +25,7 @@ A lightweight and customisable overlay built with Python and Tkinter. designed f
 
     Zero Bloat: Consumes minimal RAM (~15-25MB) and sits at 0% CPU usage when idle.
 
-## 🚀 Getting Started (For Users)
-
-    Download the latest counter.exe.
-
-    Place it anywhere on your computer (it will create its own config file locally).
-
-    Double-click to launch! 
-
-⚙️ Settings & Customization
+## ⚙️ Settings & Customization
 
 Right-click the overlay and select Settings & Rows to:
 
@@ -44,3 +36,12 @@ Right-click the overlay and select Settings & Rows to:
     Customise global hotkey bindings.
 
     Change UI themes and scaling size.
+
+
+## 🚀 Getting Started (For Users)
+
+    Download the latest counter.exe.
+
+    Place it anywhere on your computer (it will create its own config file locally).
+
+    Double-click to launch! 
