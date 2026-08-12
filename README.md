@@ -56,7 +56,7 @@ Because this is written in Python and compiled with PyInstaller and uses pynput 
 
 Since this is packaged with PyInstaller so you don't have to mess around installing Python yourself, the .exe basically bundles a few things together:
 
-    The actual PokeCount source code
+    The actual PokeCount source code "pokecount.py"
 
     A lightweight, built-in Python runtime so it can execute
 
