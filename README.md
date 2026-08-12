@@ -1,13 +1,13 @@
-🎮 PokeMMO Encounter Tracker Overlay
+🎮 Poke-Count
 
-A lightweight, transparent, and customizable micro-overlay designed specifically for tracking encounters (and shiny hunting!) in PokeMMO.
+A lightweight and customisable overlay designed for manually tracking with ease in PokeMMO... Perfect for box farmers 
 
 Built with Python and Tkinter, it sits cleanly on top of your game without getting in the way, running quietly with a tiny footprint.
 ✨ Features
 
     Transparent & Always-on-Top: Built as a sleek borderless overlay that stays pinned over your game window (90% opacity).
 
-    Multiple Counter Rows: Track up to 5 different encounters/Pokémon simultaneously with custom names (e.g., Ditto, Pikachu).
+    Multiple Counter Rows: Keep track of up to 5 different encounters/Pokémon simultaneously with custom names (e.g., Ditto, Pikachu).
 
     Global Hotkeys: Control your counts seamlessly without tabbing out of the game:
 
@@ -51,7 +51,7 @@ Right-click the overlay and select Settings & Rows to:
 
     Rename your encounter targets.
 
-    Customize global hotkey bindings.
+    Customise global hotkey bindings.
 
     Change UI themes and scaling size.
 
