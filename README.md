@@ -35,11 +35,11 @@ A lightweight and customisable standalone overlay built with Python and Tkinter.
 
 ## ⚙️ Settings & Customisation
 
-    Right-click the overlay and select Settings & Rows to:
+    Right-click the overlay and select Settings to:
 
     Add or delete tracking rows (up to 5).
 
-    Rename your encounter targets.
+    Rename your counter targets.
 
     Customise global hotkey bindings.
 
