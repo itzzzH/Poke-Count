@@ -1,4 +1,4 @@
-🎮 Poke-Count
+# 🎮 Poke-Count
 
 A lightweight and customisable overlay designed for manually tracking with ease in PokeMMO... Perfect for box farming! 
 
@@ -27,7 +27,7 @@ Built with Python and Tkinter, it sits cleanly on top of your game without getti
 
     Zero Bloat: Consumes minimal RAM (~15-25MB) and sits at 0% CPU usage when idle.
 
-🚀 Getting Started (For Users)
+## 🚀 Getting Started (For Users)
 
 If you just downloaded the compiled version from the releases page:
 
