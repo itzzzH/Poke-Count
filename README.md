@@ -51,4 +51,4 @@ Right-click the overlay and select Settings to:
     Change UI themes and scaling size.
 
 ## Please note!
-Because this is written in Python and compiled with PyInstaller— and uses pynput to listen for global hotkeys while you're in-game—some antivirus programs or VirusTotal scanners may show false positives. The full source code is completely open in this repo "pokecount.py" 
+Because this is written in Python and compiled with PyInstaller and uses pynput to listen for global hotkeys while you're in-game some antivirus programs or VirusTotal scanners may show false positives. The full source code is completely open in this repo "pokecount.py" 
