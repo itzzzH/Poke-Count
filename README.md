@@ -2,8 +2,9 @@
 
 A lightweight and customisable overlay designed for manually tracking with ease in PokeMMO... Perfect for box farming! 
 
-Built with Python and Tkinter, it sits cleanly on top of your game without getting in the way, running quietly with a tiny footprint.
-✨ Features
+Built with Python and Tkinter.
+
+##✨ Features
 
     Transparent & Always-on-Top: Built as a sleek borderless overlay that stays pinned over your game window (90% opacity).
 
