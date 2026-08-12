@@ -3,44 +3,44 @@ A lightweight and customisable standalone overlay built with Python and Tkinter.
 
 ## 🚀 Getting Started (For Users)
 
-Download the latest counter.exe
+    Download the latest counter.exe
 
-Place it anywhere on your computer (it will create its own config file locally)
+    Place it anywhere on your computer (it will create its own config file locally)
 
-Double-click to launch! 
+    Double-click to launch! 
 
 ## Features
 
-Transparent & Always-on-Top: Built as a sleek borderless overlay that stays pinned over your game window (90% opacity).
+    Transparent & Always-on-Top: Built as a sleek borderless overlay that stays pinned over your game window (90% opacity).
 
-Multiple Counter Rows: Keep track of up to 5 different counters simultaneously with custom names (e.g., Ditto, Pikachu).
+    Multiple Counter Rows: Keep track of up to 5 different counters simultaneously with custom names (e.g., Ditto, Pikachu).
 
-Global Hotkeys: Control your counts seamlessly without tabbing out of the game:
+    Global Hotkeys: Control your counts seamlessly without tabbing out of the game:
 
-F1: Increase active counter
+    F1: Increase active counter
 
-F2: Decrease active counter
+    F2: Decrease active counter
 
-F3: Pause / Unpause tracking
+    F3: Pause / Unpause tracking
 
-F4: Switch between active counter rows
+    F4: Switch between active counter rows
 
-Custom Themes: Includes several built-in colour schemes.
+    Custom Themes: Includes several built-in colour schemes.
 
-Auto-Saving: Automatically remembers your counts, custom names, hotkeys, and theme preferences via a local JSON file (counter_config.json) when closed.
+    Auto-Saving: Automatically remembers your counts, custom names, hotkeys, and theme preferences via a local JSON file (counter_config.json) when closed.
 
-Fully Scalable: Adjust the text size and scale slider through the settings panel to fit your preferred layout.
+    Fully Scalable: Adjust the text size and scale slider through the settings panel to fit your preferred layout.
 
-Zero Bloat: Consumes minimal RAM (~15-25MB) and sits at 0% CPU usage when idle.
+    Zero Bloat: Consumes minimal RAM (~15-25MB) and sits at 0% CPU usage when idle.
 
 ## ⚙️ Settings & Customisation
 
-Right-click the overlay and select Settings & Rows to:
+    Right-click the overlay and select Settings & Rows to:
 
-Add or delete tracking rows (up to 5).
+    Add or delete tracking rows (up to 5).
 
-Rename your encounter targets.
+    Rename your encounter targets.
 
-Customise global hotkey bindings.
+    Customise global hotkey bindings.
 
-Change UI themes and scaling size.
+    Change UI themes and scaling size.
