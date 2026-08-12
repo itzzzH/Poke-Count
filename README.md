@@ -2,14 +2,13 @@
 A standalone script built with Python and Tkinter, compiled into a exe to make manually tracking easier in pokeMMO ( perfect for box farming & breeders! )
 
 ## 🚀 Getting Started
-
-    [Click here](https://github.com/itzzzH/Poke-Count/releases/tag/1.0) to download the latest release ( EXE )
+[Click here](https://github.com/itzzzH/Poke-Count/releases/tag/1.0) to download the latest release ( .exe )
 
     Place it anywhere on your computer (it will create its own config file locally)
 
     Double-click to launch!
 
-    Alternatively, you can run the source code yourself by cloning the repository and running python pokecount.py (requires pynput installed).
+    Alternatively, you can run the source code yourself "pokecount.py" (requires pynput installed).
     
 ## Features
 
