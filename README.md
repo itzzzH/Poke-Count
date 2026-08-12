@@ -1,5 +1,5 @@
 # 🎮 Poke-Count
-A lightweight and customisable overlay built with Python and Tkinter. designed for manually tracking with ease in PokeMMO... Perfect for box farming!
+A lightweight and customisable standalone overlay built with Python and Tkinter. designed for manually tracking with ease in PokeMMO...
 
 ## Features
 
@@ -17,7 +17,7 @@ A lightweight and customisable overlay built with Python and Tkinter. designed f
 
         F4: Switch between active counter rows
 
-    Custom Themes: Includes several built-in color schemes.
+    Custom Themes: Includes several built-in colour schemes.
 
     Auto-Saving: Automatically remembers your counts, custom names, hotkeys, and theme preferences via a local JSON file (counter_config.json) when closed.
 
@@ -25,7 +25,7 @@ A lightweight and customisable overlay built with Python and Tkinter. designed f
 
     Zero Bloat: Consumes minimal RAM (~15-25MB) and sits at 0% CPU usage when idle.
 
-## ⚙️ Settings & Customization
+## ⚙️ Settings & Customisation
 
 Right-click the overlay and select Settings & Rows to:
 
