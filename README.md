@@ -1,6 +1,6 @@
 🎮 Poke-Count
 
-A lightweight and customisable overlay designed for manually tracking with ease in PokeMMO... Perfect for box farmers 
+A lightweight and customisable overlay designed for manually tracking with ease in PokeMMO... Perfect for box farming! 
 
 Built with Python and Tkinter, it sits cleanly on top of your game without getting in the way, running quietly with a tiny footprint.
 ✨ Features
