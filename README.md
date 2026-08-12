@@ -3,7 +3,7 @@ A standalone script built with Python and Tkinter, compiled into a exe to make m
 
 ## 🚀 Getting Started
 
-    Download the latest exe in releases
+    [Click here](https://github.com/itzzzH/Poke-Count/releases/tag/1.0) to download the latest release ( EXE )
 
     Place it anywhere on your computer (it will create its own config file locally)
 
