@@ -1,5 +1,5 @@
 # 🎮 Poke-Count
-A lightweight and customisable standalone overlay built with Python and Tkinter. designed for manually tracking with ease in PokeMMO...
+A lightweight script built with Python and Tkinter, compiled into a exe to make manually tracking easier in pokeMMO ( perfect for box farming & breeders! )
 
 ## 🚀 Getting Started
 
