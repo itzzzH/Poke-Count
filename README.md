@@ -3,7 +3,7 @@ A lightweight script built with Python and Tkinter, compiled into a exe to make 
 
 ## 🚀 Getting Started
 
-    Download the latest counter.exe
+    Download the latest exe in releases
 
     Place it anywhere on your computer (it will create its own config file locally)
 
